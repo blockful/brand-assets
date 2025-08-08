@@ -1,49 +1,55 @@
-# Blockful brand assets
+#  Blockful Brand Kit
+🟩 Holistic governance security with and beyond code<br>
+🧰 Brand Kit: Official logos, fonts, colors, and usage guidelines
+<br>
+<br>
 
-> _The Blockful logo displayed in the official colors and usage patterns. Do not place the logo on top of other objects and leave a reasonable amount of margin around the outside so the logo is clearly visible._
+## Logo
+
+| Color          | Full Logo                                 | Icon        | 
+| -------------- | --------------------------------------------------------------------| ------------------------------------------------------------------------|
+| **Light**  | <p align="center"> <img src="/logo/blockful-logo-light.png" width="200">  <br>   [svg](logo/blockful-logo-light.svg) / [png](logo/blockful-logo-light.png) </p>  | <p align="center"> <img src="logo/blockful-icon-light.png" width="50"> <br>  [svg](logo/blockful-icon-light.svg) / [png](logo/blockful-icon-light.png) </p> | 
+| **Dark**  | <p align="center"> <img src="/logo/blockful-logo-dark.png" width="200">  <br>   [svg](logo/blockful-logo-dark.svg) / [png](logo/blockful-logo-dark.png) </p>  | <p align="center"> <img src="logo/blockful-icon-dark.png" width="50"> <br>  [svg](logo/blockful-icon-dark.svg) / [png](logo/blockful-icon-dark.png) </p> | 
+<br>
+
+➡️ Usage
+- Ensure strong contrast between the logo and the background to keep it easily visible and accessible in any context.
+- To maintain clarity and impact, always provide enough clear space around the logo. Use the minimum recommended spacing on all sides.
+  
+|    Good constrast example   |      X = 1/3 of the logo’s height              |
+|------------|-----------------------------------------------------------------|
+| <img src="https://i.imgur.com/GndS5fO.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/uuTnGb6.png" width="200"> |
+
+<br>
+
+## Palette
+Dark Green and Off-white are Blockful’s signature colors. They can be used as both background and foreground elements. Black is mainly reserved for backgrounds and typography.
+
+| Color      | Swatch                                               | Hex Code  |
+|------------|------------------------------------------------------|-----------|
+| Dark Green  | ![#303a1f](https://placehold.co/20x20/303a1f/303a1f) | `#303a1f` |
+| Off-white    | ![#f2f0eb](https://placehold.co/20x20/f2f0eb/f2f0eb) | `#f2f0eb` |
+| Black      | ![#231F20](https://placehold.co/20x20/231F20/231F20) | `#231F20` |
 
 
-## Colors
-#3DDE74 **Green** (Primary)
 
-#000000 **Black**
 
-#AAAAAA **Gray**
+<br>
 
-#000000 **White**
+## Typography
+The chosen typefaces support Blockful’s visual identity with clarity and flexibility, offering both legibility and character.
 
-## Fonts
-[Montserrat](https://fonts.google.com/specimen/Montserrat)
+| Font         | Usage                   | Example                                          |  Download |
+|--------------|-------------------------|---------------------------------------           |-----------|
+|   Reddit Mono  | Paragraphs     | ![Reddit Mono](https://i.imgur.com/l0BMKMu.png)        |  <p align="center"> [↗️](https://fonts.google.com/specimen/Reddit+Mono) |
+| Merriweather    |  Titles and headlines   | ![Merriweather](https://i.imgur.com/T7SYexf.png)  | <p align="center"> [↗️](https://fonts.google.com/specimen/Merriweather) |
 
-## Logos
-<img src="png/white-written-logo.png" alt="white-written-logo" height="50"/>
 
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/black-written-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/black-written-logo.svg)
+<br>
 
-<img src="png/black-written-logo.png" alt="black-written-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/black-written-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/black-written-logo.svg)
-
-<img src="png/transparent-bg-logo.png" alt="transparent-bg-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/transparent-bg-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/transparent-bg-logo.svg)
-
-<img src="png/white-bg-logo.png" alt="white-bg-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/white-bg-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/white-bg-logo.svg)
-
-<img src="png/black-bg-logo.png" alt="black-bg-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/black-bg-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/black-bg-logo.svg)
-
-<img src="png/green-bg-logo.png" alt="green-bg-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/green-bg-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/green-bg-logo.svg)
-
-<img src="png/grey-bg-logo.png" alt="grey-bg-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/grey-bg-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/grey-bg-logo.svg)
-
-<img src="png/structural-logo.png" alt="structural-logo" height="50"/>
-
-[SVG](https://github.com/blockful-io/brand-assets/blob/main/svg/structural-logo.svg) | [PNG](https://github.com/blockful-io/brand-assets/blob/main/svg/structural-logo.svg)
+## Illustration
+Blockful’s illustrations follow a minimal art style, creatively using the brand’s core identity element — the cube. They are clean, simple and yet meaningful.
+<br>
+<br>
+| <img src="/illustrations/Illustration-1.svg" width="80"> |  <img src="/illustrations/Illustration-2.svg" width="80"> |  <img src="/illustrations/Illustration-3.svg" width="80"> |
+|----------------------------|----------------------------|----------------------------|
