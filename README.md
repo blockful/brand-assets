@@ -16,7 +16,7 @@
 - Ensure strong contrast between the logo and the background to keep it easily visible and accessible in any context.
 - To maintain clarity and impact, always provide enough clear space around the logo. Use the minimum recommended spacing on all sides.
   
-|    Good constrast example   |      X = 1/3 of the logo’s height              |
+|    Good constrast example   |      X = Logo’s height              |
 |------------|-----------------------------------------------------------------|
 | <img src="https://i.imgur.com/GndS5fO.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/uuTnGb6.png" width="200"> |
 
