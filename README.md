@@ -18,7 +18,7 @@
   
 |    Good constrast example   |      X = Logo’s height              |
 |------------|-----------------------------------------------------------------|
-| <img src="https://i.imgur.com/GndS5fO.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/uuTnGb6.png" width="200"> |
+| <img src="https://i.imgur.com/GndS5fO.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/dE0WAXZ.png" width="200"> |
 
 <br>
 
